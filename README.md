@@ -1,3 +1,6 @@
+# 声明
+这个仓库里的所有内容均来自https://e.coding.net/imtzk/leancloud-oneindex.git ，本人没有进行任何修改。
+---------
 # Slim Getting Started
 
 一个基于 [Slim 框架](http://slimframework.com/) 的 PHP 应用,可以运行在 LeanEngine PHP 运行时环境。
